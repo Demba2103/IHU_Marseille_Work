@@ -1,6 +1,6 @@
 [STAGE DE MEMOIRE DE MASTER 1 : ANALYSE BIOINFORMATIQUE DES DONNEES DE SEQUENCAGE SHOTGUN](Mémoire)  
 
-__IHU Méditerranée Infection DE MARSEILLE__      
+__IHU Méditerranée Infection de MARSEILLE__      
 
 __EQUIPE CULTUROMICS__  
 
