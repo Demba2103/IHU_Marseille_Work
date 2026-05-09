@@ -6,8 +6,8 @@
 #### Titre Mémoire : Caractérisation d’*Escherichia marmotae* chez des enfants atteints de malnutrition aiguë sévère en République Démocratique du Congo (RDC) grâce à la culturomique et à la métagénomique.
 
   
-###Table des matières    
- * __ Contrôle qualité__  
+### Table des matières    
+* __Contrôle qualité__  
  * __ Correction des reads__  
  * __ Assemblage__  
  * __ Annotation du génome__  
