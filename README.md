@@ -7,8 +7,8 @@
 
   
 ###Table des matières    
- * __1- Contrôle qualité__  
- __2- Correction des reads__  
+ ##2)* __- Contrôle qualité__  
+ __- Correction des reads__  
  __3- Assemblage__  
  __4- Annotation du génome__  
  __5- Recherche de gène(s) et/ou de plasmide(s) de virulence__  
