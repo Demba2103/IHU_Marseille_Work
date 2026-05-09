@@ -7,7 +7,7 @@
 
 ### 1) Création des environnements conda 
 
-####__Table des matières__ 
+###__Table des matières__ 
  __1- Contrôle qualité__  
  __2- Correction des reads__  
  __3- Assemblage__  
