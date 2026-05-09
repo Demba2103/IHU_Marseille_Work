@@ -7,10 +7,21 @@
 
 ### 1) Création des environnements conda 
 
+Table des matières 
+ 1- ___Contrôle qualité___
+ 2- ___
+
+
+
 ````
 conda create -n amr -c bioconda -c conda-forge -y
 conda create -n busco -c bioconda -c conda-forge -y
 conda create -n abricate -c bioconda -c conda-forge -y
 conda create -n mlst -c bioconda -c conda-forge -y
 ````
+Explication des paramètres :
 
+  conda create : Permet de créer un environnement conda
+   -n : donne le nom de l'environnement
+   -c : ajoute un channel dans l'environnement
+   -y : répondre "yes" à tout
