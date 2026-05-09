@@ -7,7 +7,7 @@
 
   
 ###Table des matières    
- ##2)* __- Contrôle qualité__  
+ 2)* __- Contrôle qualité__  
  __- Correction des reads__  
  __3- Assemblage__  
  __4- Annotation du génome__  
