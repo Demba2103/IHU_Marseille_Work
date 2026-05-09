@@ -22,6 +22,6 @@ conda create -n mlst -c bioconda -c conda-forge -y
 Explication des paramètres :
 
   conda create : Permet de créer un environnement conda
-   -n : donne le nom de l'environnement
-   -c : ajoute un channel dans l'environnement
-   -y : répondre "yes" à tout
+    -n : donne le nom de l'environnement
+      -c : ajoute un channel dans l'environnement
+        -y : répondre "yes" à tout
