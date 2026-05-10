@@ -1,5 +1,7 @@
 [STAGE DE MEMOIRE DE MASTER 1 : ANALYSE BIOINFORMATIQUE DES DONNEES DE SEQUENCAGE SHOTGUN](Mémoire)  
 
+[![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat)](http://bioconda.github.io/recipes/megahit/README.html)
+
 __IHU Méditerranée Infection de MARSEILLE__      
 
 __EQUIPE CULTUROMICS__  
