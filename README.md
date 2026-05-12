@@ -8,18 +8,19 @@ __EQUIPE CULTUROMICS__
 
 <img width="827" height="244" alt="Image" src="https://github.com/user-attachments/assets/3a0e89ab-5b22-4879-ab3d-3a637e070ddb" />
 
-[Caractérisation génomique de souches *Escherichia marmotae* chez des enfants atteints de malnutrition aiguë sévère en République Démocratique du Congo (RDC) grâce à la culturomique et à la métagénomique](Titre).
+__Caractérisation génomique de souches *Escherichia marmotae* chez des enfants atteints de malnutrition aiguë sévère en République Démocratique du Congo (RDC) grâce à la culturomique et à la métagénomique__.
 
   
-[Table des matières](Table)   
-* __Contrôle qualité__  
-* __Correction des reads__  
-* __Assemblage__
-* __Annotation du génome__  
-* __Recherche de gène(s) et/ou de plasmide(s) de virulence__  
-*  __Average Nucleotidique identity__  
-*  __Typage des souches d'*Escherichia*__  
-*  __Construire d'arbre phylogénétique__  
+[__Table des matières__](Table)   
+*  [__Contrôle qualité__](contrôle)  
+*  [__Correction des reads__](correction) 
+*  [__Assemblage__](assemblage)
+*  [__Annotation du génome__](annotation)
+*  [__Recherche de gène(s) et/ou de plasmide(s) de virulence__](virulence) 
+*  [__Average Nucleotidique identity__](average)  
+*  [__Typage des souches d'*Escherichia*__](typage) 
+*  [__Construire d'arbre phylogénétique__](tree)
+ 
 
 
 ### 1) Création des environnements conda 
