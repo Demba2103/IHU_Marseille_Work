@@ -1,0 +1,5 @@
+
+#!/bin/bash
+
+python roary_plots_corrected.py --labels iqt.treefile gene_presence_absence.csv
+
