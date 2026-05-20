@@ -69,4 +69,8 @@ Explication des paramètres :
   conda create : permet de créer un environnement conda  
   -n : donne le nom de l'environnement  
   -c : ajoute un channel dans l'environnement  
-  -y : répondre "yes" à tout
+  -y : répondre "yes" à tout  
+
+
+     *  [__Contrôle qualité__](contrôle) :  
+     
