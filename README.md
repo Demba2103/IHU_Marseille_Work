@@ -69,8 +69,28 @@ Explication des paramètres :
   conda create : permet de créer un environnement conda  
   -n : donne le nom de l'environnement  
   -c : ajoute un channel dans l'environnement  
-  -y : répondre "yes" à tout  
+  -y : répondre "yes" à tout   
 
 
-     *  [__Contrôle qualité__](contrôle) :  
+   *  [__Contrôle qualité__](fastqc) :
+  
+FastQC vise à simplifier le contrôle qualité des données de séquençage brutes issues des pipelines de séquençage à haut débit.  
+FastQC est une application qui analyse un fichier FastQ et exécute une série de tests afin de générer un rapport de contrôle qualité complet. Ce rapport vous indiquera si votre séquence présente des anomalies. Chaque test est signalé comme réussi, avec avertissement ou en échec, selon son écart par rapport aux résultats attendus pour un jeu de données volumineux et normal, sans biais significatifs. Il est important de souligner que les avertissements, voire les échecs, ne signifient pas nécessairement un problème avec vos données, mais simplement un comportement inhabituel. La nature biologique de votre échantillon peut expliquer ce biais particulier observé dans vos résultats.
+
+FastQC peut être exécuté soit comme une application graphique interactive permettant de visualiser les résultats de plusieurs fichiers dans une seule application, soit de manière non interactive (par exemple, dans le cadre d'un pipeline), ce qui générera un rapport HTML pour chaque fichier traité.
+
+
+   
      
+
+
+
+
+
+
+
+
+
+
+
+
